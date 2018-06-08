@@ -1,0 +1,3 @@
+﻿  bigInteger.cpp
+d:\数据结构\biginteger\biginteger\stringmath.h(46): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  bigInteger.vcxproj -> D:\数据结构\bigInteger\Debug\bigInteger.exe
